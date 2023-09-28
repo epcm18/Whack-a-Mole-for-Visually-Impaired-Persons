@@ -1,5 +1,7 @@
 # The Whac-A-Mole Game for Visually Impaired Individuals
 
+## Gameplay
+
 ![Gameplay](./game.gif)
 
 ## Introduction
@@ -36,8 +38,7 @@ In addition to the core gameplay mechanics, our Whac-A-Mole game for blind indiv
 
 The primary differentiating factor of this game is its focus on providing an enjoyable gaming experience for blind people. While there may be similar Whac-a-Mole games available in the market, this game specifically caters to the needs of visually impaired individuals by utilizing audio cues and tactile feedback.
 
-## Gameplay
 
-!Disclaimer - Gameplay only upto the development now. Not finalised 
+!Disclaimer - Gameplay is only upto the development now. Not finalised 
 
 
