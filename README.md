@@ -1,5 +1,7 @@
 # The Whac-A-Mole Game for Visually Impaired Individuals
 
+![Gameplay](path/to/your/gameplay.gif](https://github.com/epcm18/Whack-a-Mole-for-Visually-Impaired-Persons/blob/master/game.gif)https://github.com/epcm18/Whack-a-Mole-for-Visually-Impaired-Persons/blob/master/game.gif)
+
 ## Introduction
 
 The current field of gaming lacks inclusive and accessible options for visually impaired individuals. Most existing games heavily rely on visual elements, making it challenging for blind individuals to engage and enjoy gaming experiences. This limitation results in a lack of entertainment, challenge, and immersion for visually impaired gamers.
@@ -38,4 +40,4 @@ The primary differentiating factor of this game is its focus on providing an enj
 
 !Disclaimer - Gameplay only upto the development now. Not finalised 
 
-![Gameplay](path/to/your/gameplay.gif)
+
