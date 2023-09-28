@@ -1,6 +1,6 @@
 # The Whac-A-Mole Game for Visually Impaired Individuals
 
-![Gameplay](path/to/your/gameplay.gif](https://github.com/epcm18/Whack-a-Mole-for-Visually-Impaired-Persons/blob/master/game.gif)https://github.com/epcm18/Whack-a-Mole-for-Visually-Impaired-Persons/blob/master/game.gif)
+![Gameplay](https://github.com/epcm18/Whack-a-Mole-for-Visually-Impaired-Persons/blob/master/game.gif)
 
 ## Introduction
 
