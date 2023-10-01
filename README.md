@@ -36,9 +36,9 @@ In addition to the core gameplay mechanics, our Whac-A-Mole game for blind indiv
 
 ### Accessibility for the Visually Impaired
 
-The primary differentiating factor of this game is its focus on providing an enjoyable gaming experience for blind people. While there may be similar Whac-a-Mole games available in the market, this game specifically caters to the needs of visually impaired individuals by utilizing audio cues and tactile feedback.
+The primary differentiating factor of this game is its focus on providing an enjoyable gaming experience for blind people. While there may be similar Whac-a-Mole games available in the market, this game specifically caters to the needs of visually impaired individuals by utilizing audio cues and tactile feedback. So here I have used the same design technique that every device has in their accessibility settings.
+With the help of the TTS technique, I was able to transfer my game's user interface's texts into speech and also the game objects. And also designed my game logic simple and easy to access.
 
-
-!Disclaimer - Gameplay is only upto the development now. Not finalised 
+!Disclaimer - Showing Gameplay is completely different from the user experience. Hope you try it and give me feedback.
 
 
